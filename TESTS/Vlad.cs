@@ -8,5 +8,13 @@ namespace AutomationFramework.TESTS
 {
     internal class Vlad
     {
+
+
+        public void Vladmetoda()
+        {
+
+        }
+
+
     }
 }
