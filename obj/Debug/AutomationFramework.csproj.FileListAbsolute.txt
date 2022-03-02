@@ -22,3 +22,4 @@ C:\Users\vbulibasa\source\repos\AutomationFramework\AutomationFramework\obj\Debu
 C:\Users\vbulibasa\source\repos\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
 C:\Users\vbulibasa\source\repos\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.dll
 C:\Users\vbulibasa\source\repos\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb
+C:\Users\vbulibasa\source\repos\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.dll
